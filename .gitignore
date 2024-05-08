@@ -1,5 +1,4 @@
 __pycache__/
-*.wav
 _temp/
 models/
 wandb/
@@ -10,3 +9,6 @@ Retrieval-based-Voice-Conversion-WebUI/
 devin-youtube/
 train_rvc.ipynb
 *.pt
+build/
+*.wav
+*.mp3
